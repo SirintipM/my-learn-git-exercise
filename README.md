@@ -5,6 +5,7 @@
 ## ช่องทางติดต่อ
 - [Youtube](https://www.youtube.com)
 - Email
+- Facebook
 
 ## สารบัญ
 1. [Introduction](intro.md)
